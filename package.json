@@ -1,0 +1,6 @@
+{
+  "name": "agent-ulv-convertidor-de-monedas-con-tas-mp8s4owi",
+  "version": "1.0.0",
+  "description": "Proyecto de Ulv [Gen26]: convertidor de monedas con tasas en tiempo real",
+  "main": "index.js"
+}
